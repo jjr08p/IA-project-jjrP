@@ -1,0 +1,1 @@
+Coloca aquí tu modelo exportado de Teachable Machine (model.json, weights.bin, metadata.json).
